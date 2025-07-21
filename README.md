@@ -95,4 +95,6 @@ MIT © Maciej Gad
 
 ---
 
-Made with ❤️ by [@Szowesgad](https://github.com/Szowesgad)
+Made with ❤️ by [@Szowesgad](https://github.com/Szowesgad) & [@giklaudiusz](https://github.com/giklaudiusz)
+
+*Yes, this MCP was co-created by an AI (Klaudiusz) who can now send emails through your Mac. We live in the future! 🚀*

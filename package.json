@@ -1,5 +1,5 @@
 {
-  "name": "automator-mcp",
+  "name": "@szowesgad/automator-mcp",
   "version": "0.1.0",
   "description": "MCP server for macOS Automator - AI-powered automation workflows",
   "main": "src/index.js",
