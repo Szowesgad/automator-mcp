@@ -1,0 +1,45 @@
+{
+  "name": "automator-mcp",
+  "version": "0.1.0",
+  "description": "MCP server for macOS Automator - AI-powered automation workflows",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "automator-mcp": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "automator",
+    "macos",
+    "automation",
+    "applescript",
+    "jxa",
+    "workflow",
+    "ai",
+    "claude"
+  ],
+  "author": "Maciej Gad <void@div0.space>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maciejgad/automator-mcp.git"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "src/",
+    "LICENSE",
+    "README.md",
+    "mcp.json"
+  ]
+}
