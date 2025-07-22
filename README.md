@@ -2,6 +2,21 @@
 
 MCP (Model Context Protocol) server for macOS Automator - bringing AI-powered automation to your Mac!
 
+**🚨 BREAKING: AI CAN NOW CONTROL YOUR MAC! 🚨**
+
+[![npm version](https://badge.fury.io/js/automator-mcp.svg)](https://www.npmjs.com/package/automator-mcp)
+
+## 🤯 What This Does
+
+This MCP server lets Claude (or any AI with MCP support) control your macOS:
+- 📧 **Send emails** through Apple Mail
+- 🗂️ **Organize files** intelligently  
+- 🖥️ **Control applications** natively
+- 🔄 **Automate workflows** with AppleScript/JXA
+- 👀 **Visual automation** - AI watches and learns from your screen
+
+**Yes, you read that right. AI can now send emails from your Mac!**
+
 ## 🚀 Features
 
 - **AppleScript Execution** - Run AppleScript directly from AI
